@@ -5,3 +5,4 @@ node_modules/
 packge.json
 gulpfile.js
 yarn.lock
+.jekyll-cache/
