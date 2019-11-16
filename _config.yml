@@ -5,8 +5,8 @@ description: > # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 permalink: ':title/'
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "jhonattas.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://soucriador.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
@@ -15,22 +15,22 @@ banner-desc: # add banner description
 
 # Author settings
 author-pic: face.jpg # your photo
-author-name: # your name
-about-author: # about author
+author-name: Jhonattas Henrique
+about-author: Desenvolvedor de software atualmente morando e atuando em São Paulo, venho passando a maior parte do meu tempo se dedicando ao projeto homeBook, e aprendizado de NodeJS e suas ferramentas derivadas. Meu coração sempre será do Java <3 e criação de aplicativos é algo que nunca larguei (kotlin e swift me abracem). Viciado em música, sempre estou de fone (nem sempre ligado), e dos meus dois celulares é algo dificil de me ver desgrudar ;)
 email: jhonattas@soucriador.com # your email
 phone: +55 (19) 999-199-109 # your pnone number
 website: https://soucriador.com # you website
 
 # Social link
 google_url:    # add url link
-twitter_url:   # add url link 
+twitter_url:   https://twitter.com/jhoouh
 instagram_url: https://instagram.com/jhoouh
 pinterest_url: # add url link
 dribbble_url:  # add url link
 facebook_url:  https://facebook.com/jhoouh
 
 # Disqus
-discus_identifier: mr-brown # add your discus identifier
+discus_identifier: jhonattas # add your discus identifier
 
 # Newsletter
 mailchimp: # add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
