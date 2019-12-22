@@ -1,10 +1,10 @@
 {
-  "name": "blog",
-  "version": "1.0.0",
-  "description": "A starter project for Jekyll",
+  "name": "soucriador_main",
+  "version": "1.0.1",
+  "description": "Versão ao vivo do site Sou Criador",
   "main": "index.js",
-  "repository": "https://github.com/artemsheludko/Jekyll-Gulp-Sass-Autoprefixer-Imagemin-BrowserSync",
-  "author": "Artem Sheludko",
+  "repository": "https://github.com/jhonattas/blog",
+  "author": "Jhonattas Henrique",
   "license": "MIT",
   "dependencies": {
     "browser-sync": "^2.18.8",
