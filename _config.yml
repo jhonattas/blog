@@ -1,52 +1,73 @@
-logo: # add logo name
-title: Sou Criador
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-permalink: ':title/'
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://soucriador.com" # the base hostname & protocol for your site, e.g. http://example.com
+title:            Sou Criador
+description:      desenvolvedor de experiências
+disqus_shortname: soucriador
+#Your site's domain goes here. Leave localhost server or blank when working locally.
+#url:              http://127.0.0.1:4000
+url:              https://jhonattas.github.io/criador/
 
-# Banner settings
-video: mountains.mp4 # add banner video. Add your video file to the folder video
-banner-title: # add banner title
-banner-desc: # add banner description
+# Owner/author information
+owner:
+  name:           Jhonattas
+  avatar:         avatar.jpg
+  bio:            "A developer who loves beautiful things."
+  email:          jhonattas@soucriador.com
+  # Social networking links used in footer. Update and remove as you like.
+  #facebook:       jhoouh
+  github:         jhonattas
+  #stackexchange:  
+  #flickr:         
+  #tumblr:         
+  # For Google Authorship https://plus.google.com/authorship
+  #google_plus:   https://plus.google.com/+JhonattasGonçalves/
+  linkedin:       jhonattas
+  #instagram:      jhoouh
+  twitter:        jhoouh
 
-# Author settings
-author-pic: face.jpg # your photo
-author-name: Jhonattas Henrique
-about-author: Desenvolvedor de software atualmente morando e atuando em São Paulo, venho passando a maior parte do meu tempo se dedicando ao projeto homeBook, e aprendizado de NodeJS e suas ferramentas derivadas. Meu coração sempre será do Java <3 e criação de aplicativos é algo que nunca larguei (kotlin e swift me abracem). Viciado em música, sempre estou de fone (nem sempre ligado), e dos meus dois celulares é algo dificil de me ver desgrudar ;)
-email: jhonattas@soucriador.com # your email
-phone: +55 (19) 999-199-109 # your pnone number
-website: https://soucriador.com # you website
+# Background image to be tiled on all pages
+background: ps_neutral.png
 
-# Social link
-google_url:    # add url link
-twitter_url:   https://twitter.com/jhoouh
-instagram_url: https://instagram.com/jhoouh
-pinterest_url: # add url link
-dribbble_url:  # add url link
-facebook_url:  https://facebook.com/jhoouh
+# Analytics and webmaster tools stuff goes here
+google_analytics:   UA-41843022-1
+google_verify:      
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:         
 
-# Disqus
-discus_identifier: jhonattas # add your discus identifier
+# Links to include in top navigation
+# For external links add external: true
+#links:
+#  - title: Theme Setup
+#    url: /theme-setup
+#  - title: External Link
+#    url: http://mademistakes.com
+#    external: true
 
-# Newsletter
-mailchimp: # add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:   America/Sao_Paulo
+future:     true
+rouge:      true
+markdown:   kramdown
 
-# Tracker
-analytics:
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title/
 
-# Paginate
-paginate: 12
-paginate_path: /page:num/
+# Amount of post to show on home page
+paginate: 5
 
-# Build settings
-markdown: kramdown
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  syntax_highlighter: true
 
-include: [_pages]
-exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
+  syntax_highlighter_opts:
+    line_numbers: nil
+    line_numbers_start: 1
+    tab_width: 4
+    bold_every: 10
+    css: class
+
+plugins: [jekyll-paginate]
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]

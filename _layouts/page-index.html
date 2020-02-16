@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="nleao-js" lang="en"><!--<![endif]-->
+<head>
+{% include head.html %}
+
+<!-- index.style-->
+<link rel="stylesheet" href="{{ site.url }}/css/styles-index.css">
+
+</head>
+
+<body id="post-index" {% if page.image.feature %}class="feature"{% endif %}>
+
+{% include browser-upgrade.html %}
+{% include navigation.html %}
+
+<div class="entry-header">
+    <div class="entry-image-index">
+	    <svg version="1.1" id="triangulos" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" id="logo" class="line-drawing"
+		 width="330px" height="330px" viewBox="315.5 295.5 330 330" enable-background="new 315.5 295.5 330 330" xml:space="preserve">
+		 	<path class="darker"  d="M635.984,611.215H430.94l101.832-255.776L635.984,611.215z
+	 M597.543,611.215H349.455l123.209-301.674L597.543,611.215z M473.122,611.215H325.949l73.091-183.936L473.122,611.215z
+	 M597.543,611.215H430.94l81.472-204.638L597.543,611.215z"></path>
+		</svg>
+		<div data-svg="logo" class="logo hide">
+			<img src="images/criador_colorido.png"/>
+		</div>
+    	
+    </div><!-- /.entry-image-index -->
+
+</div>
+
+<div id="main" role="main" class="hide">
+  {{ content }}
+</div><!-- /#main -->
+
+<div class="footer-wrapper">
+  <footer role="contentinfo">
+    {% include footer.html %}
+  </footer>
+</div><!-- /.footer-wrapper -->
+
+{% include scripts.html %}          
+
+</body>
+</html>
