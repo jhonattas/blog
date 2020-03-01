@@ -6,3 +6,4 @@ packge.json
 gulpfile.js
 yarn.lock
 .jekyll-cache/
+*.DS_Store
