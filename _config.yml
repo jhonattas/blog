@@ -3,7 +3,7 @@ description:      desenvolvedor de experiências
 disqus_shortname: soucriador
 #Your site's domain goes here. Leave localhost server or blank when working locally.
 #url:              http://127.0.0.1:4000
-url:              https://jhonattas.github.io/criador/
+url:              https://soucriador.com/
 
 # Owner/author information
 owner:
@@ -20,7 +20,7 @@ owner:
   # For Google Authorship https://plus.google.com/authorship
   #google_plus:   https://plus.google.com/+JhonattasGonçalves/
   linkedin:       jhonattas
-  #instagram:      jhoouh
+  instagram:      jhonattash
   twitter:        jhoouh
 
 # Background image to be tiled on all pages
