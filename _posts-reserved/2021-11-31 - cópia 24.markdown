@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "empty"
+date:   2021-01-30 17:27:00
+categories: [pt, diary]
+image:
+  background: witewall_3.png
+tags: [reflexao, vida, trabalho, diario]
+comments: true
+share: true
+---
+blank space
