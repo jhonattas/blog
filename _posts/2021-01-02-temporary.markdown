@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "O segundo dia de um novo ano"
-date:   2021-101-02 08:40:00
+date:   2021-01-02 08:40:00
 categories: [pt, frontend]
 image:
   background: witewall_3.png
