@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Um ano diferente, trazendo uma vida diferente"
+date:   2021-01-14 06:57:00
+categories: [pt, diary]
+image:
+  background: witewall_3.png
+tags: [reflexao, vida, trabalho]
+comments: true
+share: true
+---
+Sigo acordado desde três horas e pouco da madrugada quando acordei para ir ao banheiro (nem eram quatro ainda) e minha cabeça acabou não permitindo que eu dormisse. Ainda ando procupado com alguns assuntos da casa nova, e um pouco ansioso com o emprego novo que começa no final do mês, parte de mim esta feliz, mas os outros problemas que acabam me rodeando, principalmente na família me preocupam um bocado.
