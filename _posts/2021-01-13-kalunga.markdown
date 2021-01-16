@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Kalunga"
+date:   2021-01-13 20:17:00
+categories: [pt, frontend]
+image:
+  background: witewall_3.png
+tags: [estrutura, html5, email, css3, jquery]
+comments: true
+share: true
+---
+Recentemente estive buscando oportunidades de emprego, desde que minha última investida não saiu como o esperado (inclusive preciso fazer um balanço sobre isso aqui no site), isso me deixou um pouco desestabilizado psicologicamente, o que definitivamente não dá pra chamar de meu melhor momento, já que fisicamente eu estava doente também (e ao menos naquele período, estava tentando descobrir o que estava me adoecendo).
+
+
+Tive a maravilhosa oportunidade de participar do processo de uma das empresas que gosto muito, mas já no primeiro momento percebi que não conhecia muito da mesma.
