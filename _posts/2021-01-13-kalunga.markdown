@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Kalunga"
-date:   2021-01-13 20:17:00
-categories: [pt, frontend]
+date:   2021-01-13 09:36:00
+categories: [pt, diary]
 image:
   background: witewall_3.png
-tags: [estrutura, html5, email, css3, jquery]
+tags: [reflexao, vida, trabalho]
 comments: true
 share: true
 ---
