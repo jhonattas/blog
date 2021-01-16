@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Conexões"
+date:   2021-01-16 00:14:45
+categories: [pt, diary]
+image:
+  background: whitewall_3.png
+tags: [reflexao, vida, trabalho]
+comments: true
+share: true
+---
