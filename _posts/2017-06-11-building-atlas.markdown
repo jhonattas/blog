@@ -23,7 +23,7 @@ Criar esta API backend tem como objetivo principal separar adequadamente minhas 
 
 <br/>
 <h3>Porque ATLAS?</h3>
-Na mitologia grega <a href="https://pt.wikipedia.org/wiki/Atlas_(mitologia)" target="_new">ATLAS</a> é um dos titãs que carrega o mundo, esta API por sua vez tem uma responsabilidade parecida na estrutura que estou dos serviços que estou montando aqui. O ATLAS se conectará com o frontend do domínio principal, e com os aplicativos em Android e iOS.
+Na mitologia grega <a href="https://pt.wikipedia.org/wiki/Atlas_(mitologia)" target="_new">ATLAS</a> é um dos titãs que carrega o mundo, esta API por sua vez tem uma responsabilidade parecida na estrutura que estou dos serviços que estou montando aqui. O ATLAS se conectará com o frontend do domínio principal, e com front-ends como Android, iOS e outros que podem vir.
 
 
 <br/>

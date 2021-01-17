@@ -10,7 +10,7 @@ comments: true
 share: true
 ---
 
-Amaterasu é um dos deuses presentes na mitologia japonesa, outro fato que me levou a escolher este nome foi uma das habilidades de um personagem no anime Naruto.
+Amaterasu é um dos deuses presentes na mitologia japonesa, outro fato que me levou a escolher este nome foi uma das habilidades especial de um personagem no anime Naruto.
 
 
 <h3>Objetivo</h3>
@@ -19,7 +19,7 @@ Esta api tem um objetivo estremamente claro dentro da aplicação, ela foi escri
 
 <br/>
 <h3>Porque AMATERASU?</h3>
-Neste caso o nome é puramente estético, e o utilizei para batismo por conta de uma habilidade de personagens do anime Naruto (do qual sou um bocado fã), mas sei também que existe conexão com a mitologia asiatica.
+Neste caso o nome é puramente estético, e o utilizei para batismo por conta de uma habilidade de personagens do anime Naruto (do qual sou um bocado fã), mas sei também que existe conexão com a mitologia oriental.
 
 
 <br/>

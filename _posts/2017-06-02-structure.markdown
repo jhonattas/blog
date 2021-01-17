@@ -2,10 +2,10 @@
 layout: post
 title:  "Estrutura"
 date:   2017-06-02 08:15:03
-categories: estrutura
+categories: [estrutura, diary, news]
 image:
   feature: abstract-1.jpg
-tags: [estrutura]
+tags: [estrutura, news, diary]
 comments: true
 share: true
 ---
