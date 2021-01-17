@@ -2,10 +2,10 @@
 layout: post
 title:  "Experiências"
 date:   2016-10-02 12:09:15
-categories: news
+categories: [reflexao, vida, trabalho, desenvolvimento software]
 image:
   feature: abstract-1.jpg
-tags: [news]
+tags: [reflexao, vida, trabalho, desenvolvimento software]
 comments: true
 share: true
 ---
@@ -21,4 +21,4 @@ Desenvolver um app (que alguém provavelmente vai utilizar), é como escrever um
 
 <br/>Assim como uma história, um aplicativo tem o poder de servir uma experiência, depende dos responsáveis pelo mesmo guiar o usuário final (por meio da composição do produto) a um caminho que pode ser excelente, ou lamentável.<br/>
 <br/>
-Por sua vez para ser completa, uma experiencia deve possuir inicio, meio, e fim. E cada uma dessas partes precisa ser coerente com o restante, é necessario se por no lugar do usuario, sentir o que ele sente, passar por onde ele passou, e isso tende a ser contextualizado a cada ramificação diferente de usuário que você possuir. Me recordo a alguns anos atrás de ler que o Mark Zuckerberg obrigou que alguns dos engenheiros utilizassem o facebook na plataforma Android, porque a experiência do app no sistema do robozinho verde era extremamente pobre quando comparada ao iOS. É muito comum que um usuário passe mais tempo dentro de seu produto do que voce mesmo, logo o feedback do mesmo, e a observação de como este interage com sua criação é um dos pontos a ser levado em conta sobre quais os próximos caminhos a se seguir.
+Por sua vez para ser completa, uma expêriencia deve possuir inicio, meio, e fim. E cada uma dessas partes precisa ser coerente com o restante, é necessario se por no lugar do usuario, sentir o que ele sente, passar por onde ele passou, e isso tende a ser contextualizado a cada ramificação diferente de usuário que você possuir. Me recordo a alguns anos atrás de ler que o Mark Zuckerberg obrigou que alguns dos engenheiros utilizassem o facebook na plataforma Android, porque a experiência do app no sistema do robozinho verde era extremamente pobre quando comparada ao iOS. É muito comum que um usuário passe mais tempo dentro de seu produto do que voce mesmo, logo o feedback do mesmo, e a observação de como este interage com sua criação é um dos pontos a ser levado em conta sobre quais os próximos caminhos a se seguir.

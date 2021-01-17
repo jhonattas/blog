@@ -2,10 +2,10 @@
 layout: post
 title:  "Kalunga"
 date:   2021-01-13 09:36:00
-categories: [pt, diary]
+categories: [pt, diary, news]
 image:
   background: witewall_3.png
-tags: [reflexao, vida, trabalho]
+tags: [reflexao, vida, trabalho, news]
 comments: true
 share: true
 ---
