@@ -9,6 +9,16 @@ tags: [estrutura, html5, email, css3, jquery]
 comments: true
 share: true
 ---
+** Tecnologias **
+* EC2 / AWS - VPS Linux Ubuntu
+* S3 / AWS
+* MySQL
+* PHP - FrontEnd
+* NodeJS - API
+* VueJS - FrontEnd (painel de administração)
+* Java & Kotlin - Aplicativo Android
+
+
 Este foi um dos maiores projetos que já fiz sozinho, que tenho mais carinho, e por um bocado de tempo também foi um dos mais belos que pude participar.
 
 <!-- more -->
@@ -33,7 +43,7 @@ Como também acabo por fazer na maioria dos meus projetos, elegi o ambiente de d
 
 
 ** Banco de dados **
-A modelagem do banco de dados foi feita, 
+A modelagem do banco de dados foi feita utilizando MySQL, e alocada dentro da VPS separada para o projeto.
 
 ** API **
 Ao menos no meu ciclo, depois que faço o desenho inicial de uma solução, depois do banco de 
