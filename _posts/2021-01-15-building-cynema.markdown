@@ -10,8 +10,8 @@ comments: true
 share: true
 ---
 Este foi um dos maiores projetos que já fiz sozinho, que tenho mais carinho, e por um bocado de tempo também foi um dos mais belos que pude participar.
-<!-- more -->
 
+<!-- more -->
 O projeto atualmente que rebatizei de CYNEMA foi constituido inicialmente como PATROCINE CINEMAS, foi feito gradativamente e sob medida para este cliente especifico.
 
 *** O Inicio ***
