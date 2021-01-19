@@ -5,7 +5,7 @@ date:   2017-06-12 08:20:00
 categories: [pt, estrutura, rails, projects]
 image:
   background: witewall_3.png
-tags: [estrutura, amazon, aws, ruby on rails, api, backend]
+tags: [estrutura, amazon, aws, ruby on rails, api, backend, projects]
 comments: true
 share: true
 ---

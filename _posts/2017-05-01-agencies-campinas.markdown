@@ -2,10 +2,10 @@
 layout: post
 title:  "Agências Campinas"
 date:   2017-05-01 08:01:15
-categories: [pt, development, android]
+categories: [pt, development, android, projects]
 image:
   background: witewall_3.png
-tags: [android, whatsapp, retrofit, json]
+tags: [android, whatsapp, retrofit, json, projects]
 comments: true
 share: true
 ---
