@@ -9,7 +9,7 @@ tags: [work, projects, html5, css3]
 comments: true
 share: true
 ---
-Desenvolvimento de website dinâmico para franqueados.
+Criação no Illustrator, usando conceito flat.
 <center>
 <br/>
 <br>
