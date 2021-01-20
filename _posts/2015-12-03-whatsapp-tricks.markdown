@@ -9,13 +9,12 @@ tags: [android, whatsapp, admob, projects]
 comments: true
 share: true
 ---
-
-Whatsapp tricks (ou para os intímos, dicas para whatsapp)
-<br/>
-
 <center>
     <img src="https://blog.jhonattas.com/images/posts/74e15e32069227.566de3c572b7c.png">
 </center>
+
+Whatsapp tricks (ou para os intímos, dicas para whatsapp)...
+<br/>
 
 Este app foi de longe uma das coisas mais surpreendentes da qual eu pude fazer parte este ano, a muito eu tinha em mente fazer algo como isso, mas nunca havia chegado a faze-lo pelo simples fato de não ser nem um pouco complexo, e eu acreditava piamente que o retorno de um produto como este seria… Bem ZERO. Mas a minha perspectiva estava errada, e foi um erro feio, um erro RUDE, #paraNossaAlegria.
 <br/>

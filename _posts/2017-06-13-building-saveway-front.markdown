@@ -18,7 +18,11 @@ Eu queria também que todos e tudo ao me redor usufluissem do mesmo, então sem 
 
 
 Ter liberdade para curvar o conhecimento que absorvo, e conseguir aplicar isso de maneira criativa no que me é necessário fez e ainda faz muita diferença na minha vida, é uma marca muito linda que vocês deixaram em mim, e que agradeço e vou carregar para sempre.
-
 <br/>
-<b>Github</b>: Em breve<br/>
-<b>Site</b>: <a href="http://saveway.com.br/" target="_new">www.saveway.com.br</a><br/>
+<br/>
+<a href="https://blog.jhonattas.com/images/posts/00d62331876087.5664fdc6ecd9b.png" target="_new">
+	<img src="https://blog.jhonattas.com/images/posts/00d62331876087.5664fdc6ecd9b.png">
+</a>
+<br/>
+<br/>
+<b>Site</b>: <a href="http://saveway.com.br/" target="_new">www.saveway.com.br</a>
