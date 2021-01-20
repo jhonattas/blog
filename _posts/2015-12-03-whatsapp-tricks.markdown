@@ -14,7 +14,7 @@ Whatsapp tricks (ou para os intímos, dicas para whatsapp)
 <br/>
 
 <center>
-    <img src="https://1.bp.blogspot.com/-d9Z-ShThT2g/Vl_H_qkZ3cI/AAAAAAAAXhY/gARik4EA7l0/s400/1.jpg">
+    <img src="https://blog.jhonattas.com/images/posts/74e15e32069227.566de3c572b7c.png">
 </center>
 
 Este app foi de longe uma das coisas mais surpreendentes da qual eu pude fazer parte este ano, a muito eu tinha em mente fazer algo como isso, mas nunca havia chegado a faze-lo pelo simples fato de não ser nem um pouco complexo, e eu acreditava piamente que o retorno de um produto como este seria… Bem ZERO. Mas a minha perspectiva estava errada, e foi um erro feio, um erro RUDE, #paraNossaAlegria.
@@ -25,7 +25,7 @@ Disponível inicialmente em português e espanhol, o app consiste em um conjunto
 Notando este comportamento a segunda coisa que eu fiz foi atualizar o app e inserir anúncios!!!
 
 <center>
-    <img src="https://4.bp.blogspot.com/-r3C5Xvo9WsM/Vl_ILtbUa4I/AAAAAAAAXhk/1si3_Goe0z4/s640/Captura%2Bde%2BTela%2B2015-12-03%2Ba%25CC%2580s%2B02.23.53.png">
+    <img src="https://blog.jhonattas.com/images/posts/captura_de_tela_2015-12-03_02.23.53.png">
 </center>
 
 
@@ -33,7 +33,7 @@ Acima é possível verificar o rendimento deste app ao longo deste período (no 
 
 
 <center>
-    <img src="https://1.bp.blogspot.com/-d-Nwch-k1K8/Vl_IQgUZFNI/AAAAAAAAXhw/t9d-58P5wTo/s640/Captura%2Bde%2BTela%2B2015-12-03%2Ba%25CC%2580s%2B02.30.16.png">
+    <img src="https://blog.jhonattas.com/images/posts/captura_de_tela_2015-12-03_02.30.16.png">
 </center>
 
 
