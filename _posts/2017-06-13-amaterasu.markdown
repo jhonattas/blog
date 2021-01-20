@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Projeto Amaterasu"
+title:  "Amaterasu"
 date:   2017-06-12 08:20:00
 categories: [pt, projects]
 image:
