@@ -2,7 +2,7 @@
 layout: post
 title:  "FrontEnd Saveway"
 date:   2017-06-12 08:40:00
-categories: [pt, frontend]
+categories: [pt, projects]
 image:
   background: witewall_3.png
 tags: [estrutura, html5, email, css3, jquery]

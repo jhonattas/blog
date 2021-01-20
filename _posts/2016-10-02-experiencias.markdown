@@ -2,7 +2,7 @@
 layout: post
 title:  "Experiências"
 date:   2016-10-02 12:09:15
-categories: [reflexao, vida, trabalho, desenvolvimento software]
+categories: [pt, diary]
 image:
   feature: abstract-1.jpg
 tags: [reflexao, vida, trabalho, desenvolvimento software]

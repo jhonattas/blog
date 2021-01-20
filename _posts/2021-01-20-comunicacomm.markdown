@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Dog Days Are About To Over"
-date:   2021-01-19 06:39:51
-categories: [pt, diary]
+title:  "COMUNICACOMM"
+date:   2021-01-20 04:28:51
+categories: [pt, projects]
 image:
   background: witewall_3.png
-tags: [reflexao, vida, trabalho, diario]
+tags: [work, projects, html5, css3]
 comments: true
 share: true
 ---

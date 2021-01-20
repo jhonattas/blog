@@ -2,7 +2,7 @@
 layout: post
 title:  "Projeto Atlas"
 date:   2017-06-11 07:21:00
-categories: [pt, estrutura, nodejs]
+categories: [pt, projects]
 image:
   background: witewall_3.png
 tags: [estrutura, amazon, aws, nodejs, passport, mongodb, mysql, jwt, json, api, backend]
