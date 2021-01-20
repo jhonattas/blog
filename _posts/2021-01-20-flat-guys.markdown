@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "Flat Guys"
+date:   2021-01-20 05:28:23
+categories: [pt, projects]
+image:
+  background: witewall_3.png
+tags: [work, projects, html5, css3]
+comments: true
+share: true
+---
+Desenvolvimento de website dinâmico para franqueados.
+<center>
+<br/>
+<br>
+<a href="https://blog.jhonattas.com/images/posts/3f5b3a22752027.56317cb59b8a9.png" target="_new">
+	<img src="https://blog.jhonattas.com/images/posts/3f5b3a22752027.56317cb59b8a9.png">
+</a>
+
+<br/>
+<br>
+<a href="https://blog.jhonattas.com/images/posts/be4f6422752027.56317cb590724.jpg" target="_new">
+	<img src="https://blog.jhonattas.com/images/posts/be4f6422752027.56317cb590724.jpg">
+</a>
+
+<br/>
+<br>
+<a href="https://blog.jhonattas.com/images/posts/e7f45422752027.56319249a1eea.png" target="_new">
+	<img src="https://blog.jhonattas.com/images/posts/e7f45422752027.56319249a1eea.png">
+</a>
+
+<br/>
+<br>
+<a href="https://blog.jhonattas.com/images/posts/1d0ed822752027.56319249a6032.png" target="_new">
+	<img src="https://blog.jhonattas.com/images/posts/1d0ed822752027.56319249a6032.png">
+</a>
+
+<br/>
+<br>
+<a href="https://blog.jhonattas.com/images/posts/fba9cd22752027.5647d5abcd8f0.png" target="_new">
+	<img src="https://blog.jhonattas.com/images/posts/fba9cd22752027.5647d5abcd8f0.png">
+</a>
+
+<br/>
+<br>
+<a href="https://blog.jhonattas.com/images/posts/b36b5b22752027.5647d5abe2ae6.gif" target="_new">
+	<img src="https://blog.jhonattas.com/images/posts/b36b5b22752027.5647d5abe2ae6.gif">
+</a>
+
+</center>
