@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "Cynema"
+title:  "Cynema - Patrocine Cinemas"
 date:   2020-02-15 08:40:00
 categories: [pt, projects]
 image:
