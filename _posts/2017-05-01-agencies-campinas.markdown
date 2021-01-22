@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title:  "Agências Campinas"
 date:   2017-05-01 08:01:15
 categories: [pt, projects]

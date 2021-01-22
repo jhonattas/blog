@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Casa Nova"
+date:   2021-01-22 05:37:00
+categories: [pt, projects]
+image:
+  background: witewall_3.png
+tags: [work, projects, html5, css3]
+comments: true
+share: true
+---
+Peguei as chaves novas da nova casa, e estou me sentindo realizado, agora estou focado na minha mudança, e redefinição da casa nova. É a primeira vez que moro em um lugar que não seja um apartamento, ou a casa dos meus pais, sei que nem tudo serão flores, mas estou muito animado de verdade. Hoje tenho exames para fazer, e na segunda inicio no emprego novo, farão a instalação da internet na casa nova, tudo isso realmente parece um novo fôlego de vida.
+

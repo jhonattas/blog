@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title:  "FrontEnd Saveway"
 date:   2017-06-12 08:40:00
 categories: [pt, projects]

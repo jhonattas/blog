@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title:  "Flyworld Franquia"
 date:   2021-01-20 05:22:23
 categories: [pt, projects]

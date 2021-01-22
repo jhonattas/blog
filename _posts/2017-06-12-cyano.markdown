@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title:  "Projeto Cyano"
 date:   2017-06-12 12:39:00
 categories: [pt, projects]

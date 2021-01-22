@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title:  "CardBan - Institucional"
 date:   2021-01-20 04:28:51
 categories: [pt, projects]

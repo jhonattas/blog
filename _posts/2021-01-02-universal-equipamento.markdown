@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title:  "Construindo a Universal Equipamentos"
 date:   2021-01-02 07:58:00
 categories: [pt, projects]

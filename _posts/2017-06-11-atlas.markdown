@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title:  "Projeto Atlas"
 date:   2017-06-11 07:21:00
 categories: [pt, projects]
