@@ -2,12 +2,13 @@
 layout: post
 title:  "Casa Nova"
 date:   2021-01-22 05:37:00
-categories: [pt, projects]
+categories: [pt, diary]
 image:
   background: witewall_3.png
-tags: [work, projects, html5, css3]
+tags: [reflexao, vida, trabalho, diario]
 comments: true
 share: true
 ---
-Peguei as chaves novas da nova casa, e estou me sentindo realizado, agora estou focado na minha mudança, e redefinição da casa nova. É a primeira vez que moro em um lugar que não seja um apartamento, ou a casa dos meus pais, sei que nem tudo serão flores, mas estou muito animado de verdade. Hoje tenho exames para fazer, e na segunda inicio no emprego novo, farão a instalação da internet na casa nova, tudo isso realmente parece um novo fôlego de vida.
+Peguei as chaves novas da nova casa e estou me sentindo realizado, agora estou focado na minha mudança, e redefinição do novo espaço. É a primeira vez que moro em um lugar que não seja um apartamento, ou a casa dos meus pais, sei que nem tudo serão flores, mas estou muito animado de verdade. Hoje tenho exames para fazer, e na segunda inicio no emprego novo, também neste dia tem a configuração da internet no meu espaço novo, tudo isso realmente parece um novo fôlego de vida, olho um pouco para trás, e nossa... Eu não tinha certeza se chegaria até aqui, e aqui é só o inicio.
 
+Tentarei correr no dia de hoje para agilizar o máximo possível desta parte, e também desde que acordei bem mais cedo estou dedicando parte do mesmo a deixar redonda a parte de projetos do meu website. Tenho planos de refinar mais e mais o layout desse blog aqui pois o mesmo é conectado com o principal. Aos poucos as coisas vão se alinhando.
