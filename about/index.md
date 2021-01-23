@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /about/
-
-tags: [Sou Criador]
+title: Quem Sou Eu
 image:
   feature: abstract-5.jpg
-  credit: Igor Palhares
+  credit: dargadgetz
   creditlink: https://www.facebook.com/FotoPalhares/
+comments: false
 share: false
+modified: 2021-01-23
 ---
 
 "When I look into the future, it's so bright it burns my eyes."
@@ -30,8 +30,3 @@ Como falei sobre fases, a primeira é o que descrevi no inicio, que nada mais é
 Do mais, como pessoa sou muito comunicativo, e gosto de conhecer gente nova, passe na sessão de contato, me encontre nas redes sociais, ou me chame para um café :)
 
 Eu adoro café, com bastante açucar.. rs
-
-
-<!-- <div markdown="0"><a href="{{ site.url }}/theme-setup" class="btn btn-info">Install the Theme</a></div>
-
-[^1]: Example: *domain.com/category-name/post-title* -->

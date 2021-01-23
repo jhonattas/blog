@@ -1,6 +1,7 @@
 ---
 layout: project
 title:  "FrontEnd Saveway"
+description: "Examples and code for displaying images in posts."
 date:   2017-06-12 08:40:00
 categories: [pt, projects]
 image:
@@ -20,9 +21,12 @@ Eu queria também que todos e tudo ao me redor usufluissem do mesmo, então sem 
 Ter liberdade para curvar o conhecimento que absorvo, e conseguir aplicar isso de maneira criativa no que me é necessário fez e ainda faz muita diferença na minha vida, é uma marca muito linda que vocês deixaram em mim, e que agradeço e vou carregar para sempre.
 <br/>
 <br/>
-<a href="https://blog.jhonattas.com/images/posts/00d62331876087.5664fdc6ecd9b.png" target="_new">
-	<img src="https://blog.jhonattas.com/images/posts/00d62331876087.5664fdc6ecd9b.png">
-</a>
+<figure>
+	<a href="https://blog.jhonattas.com/images/posts/00d62331876087.5664fdc6ecd9b.png">
+		<img src="https://blog.jhonattas.com/images/posts/00d62331876087.5664fdc6ecd9b.png" alt="">
+	</a>
+	<figcaption>
+		<b>Site</b>: <a href="http://saveway.com.br/" target="_new">www.saveway.com.br</a></figcaption>
+</figure>
 <br/>
 <br/>
-<b>Site</b>: <a href="http://saveway.com.br/" target="_new">www.saveway.com.br</a>

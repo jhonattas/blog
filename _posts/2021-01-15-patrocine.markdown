@@ -4,12 +4,15 @@ title:  "Cynema - Patrocine Cinemas"
 date:   2020-02-15 08:40:00
 categories: [pt, projects]
 image:
-  background: witewall_3.png
+  background: ps_neural.png
+  feature: patrocine.jpg
+  credit: Igor Palhares
+  creditlink: https://www.facebook.com/FotoPalhares/
 tags: [estrutura, html5, email, css3, jquery]
 comments: true
 share: true
 ---
-** Tecnologias **
+<h1>Tecnologias</h1>
 * EC2 / AWS - VPS Linux Ubuntu
 * S3 / AWS
 * MySQL
