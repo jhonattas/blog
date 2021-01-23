@@ -38,3 +38,4 @@ Como já escrevi muito, em resumo conseguimos pegar um carro para trazer a gente
 
 
 
+No final de tudo, acabou sendo um dia corrido, mas que envolveu grande parte da família, desde o início dele até o final. Me sinto muito grato por ter eles para contar, e por mesmo com trancos e barrancos estarmos juntos.
