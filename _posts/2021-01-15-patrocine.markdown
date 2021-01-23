@@ -6,8 +6,6 @@ categories: [pt, projects]
 image:
   background: ps_neural.png
   feature: patrocine.jpg
-  credit: Igor Palhares
-  creditlink: https://www.facebook.com/FotoPalhares/
 tags: [estrutura, html5, email, css3, jquery]
 comments: true
 share: true
