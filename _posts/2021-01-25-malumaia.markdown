@@ -32,7 +32,6 @@ Foi construido um layout novo, e configurado em: https://malumaia.com.br (mas at
 	</figcaption>
 </figure>
 <br/>
-<br/>
 Pode ser vista em funcionamento aqui: <a href="https://demo.soucriador.com/malu-maia/" target="_new">https://demo.soucriador.com/malu-maia/</a>.
 <br/>
 
