@@ -9,4 +9,30 @@ tags: [work, projects, html5, css3]
 comments: true
 share: true
 ---
-Desenvolvimento de website
+A alguns anos atras por intermédio de um amigo (o <a href="https://www.instagram.com/balardin/" target="_new">Leandro Balardim</a>) conheci a Malu Maia, que é uma conceituada modelo e cabelereira.
+
+<figure>
+	<a href="https://blog.jhonattas.com/images/posts/malumaia-old.jpg">
+		<img src="https://blog.jhonattas.com/images/posts/malumaia-old.jpg" alt="">
+	</a>
+	<figcaption>
+		versão antiga do layout
+	</figcaption>
+</figure>
+
+
+Foi construido um layout novo, e configurado em: https://malumaia.com.br (mas atualmente não se encontra mais no ar).
+
+<figure>
+	<a href="https://blog.jhonattas.com/images/posts/malumaia-website.jpg">
+		<img src="https://blog.jhonattas.com/images/posts/malumaia-website.jpg" alt="">
+	</a>
+	<figcaption>
+		versão atualizada do layout
+	</figcaption>
+</figure>
+<br/>
+<br/>
+Pode ser vista em funcionamento aqui: <a href="https://demo.soucriador.com/malu-maia/" target="_new">https://demo.soucriador.com/malu-maia/</a>.
+
+Se quiser conhecer mais do maravilhoso trabalho da Malu Maia, aqui esta o instagram dela: <a href="https://www.instagram.com/malu_maiacabelos/" target="_new">@malu_maiacabelos</a>.
