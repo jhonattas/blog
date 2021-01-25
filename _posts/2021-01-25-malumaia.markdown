@@ -12,7 +12,7 @@ share: true
 A alguns anos atras por intermédio de um amigo (o <a href="https://www.instagram.com/balardin/" target="_new">Leandro Balardim</a>) conheci a Malu Maia, que é uma conceituada modelo e cabelereira.
 
 <figure>
-	<a href="https://blog.jhonattas.com/images/posts/malumaia-old.jpg">
+	<a href="https://blog.jhonattas.com/images/posts/malumaia-old.jpeg">
 		<img src="https://blog.jhonattas.com/images/posts/malumaia-old.jpeg" alt="">
 	</a>
 	<figcaption>
@@ -24,7 +24,7 @@ A alguns anos atras por intermédio de um amigo (o <a href="https://www.instagra
 Foi construido um layout novo, e configurado em: https://malumaia.com.br (mas atualmente não se encontra mais no ar).
 
 <figure>
-	<a href="https://blog.jhonattas.com/images/posts/malumaia-website.jpg">
+	<a href="https://blog.jhonattas.com/images/posts/malumaia-website.jpeg">
 		<img src="https://blog.jhonattas.com/images/posts/malumaia-website.jpeg" alt="">
 	</a>
 	<figcaption>
