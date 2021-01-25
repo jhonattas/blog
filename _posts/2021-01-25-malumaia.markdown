@@ -13,7 +13,7 @@ A alguns anos atras por intermédio de um amigo (o <a href="https://www.instagra
 
 <figure>
 	<a href="https://blog.jhonattas.com/images/posts/malumaia-old.jpg">
-		<img src="https://blog.jhonattas.com/images/posts/malumaia-old.jpg" alt="">
+		<img src="https://blog.jhonattas.com/images/posts/malumaia-old.jpeg" alt="">
 	</a>
 	<figcaption>
 		versão antiga do layout
@@ -25,7 +25,7 @@ Foi construido um layout novo, e configurado em: https://malumaia.com.br (mas at
 
 <figure>
 	<a href="https://blog.jhonattas.com/images/posts/malumaia-website.jpg">
-		<img src="https://blog.jhonattas.com/images/posts/malumaia-website.jpg" alt="">
+		<img src="https://blog.jhonattas.com/images/posts/malumaia-website.jpeg" alt="">
 	</a>
 	<figcaption>
 		versão atualizada do layout
