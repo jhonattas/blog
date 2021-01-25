@@ -34,5 +34,6 @@ Foi construido um layout novo, e configurado em: https://malumaia.com.br (mas at
 <br/>
 <br/>
 Pode ser vista em funcionamento aqui: <a href="https://demo.soucriador.com/malu-maia/" target="_new">https://demo.soucriador.com/malu-maia/</a>.
+<br/>
 
 Se quiser conhecer mais do maravilhoso trabalho da Malu Maia, aqui esta o instagram dela: <a href="https://www.instagram.com/malu_maiacabelos/" target="_new">@malu_maiacabelos</a>.
