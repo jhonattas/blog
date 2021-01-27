@@ -11,7 +11,7 @@ gem "faraday-net_http", "1.0.1"
 gem "multipart-post", "2.1.1"
 gem "ruby2_keywords", "0.0.4"
 gem "faraday", "1.3.0"
-gem "i18n", "0.9.5"
+
 gem "sass-listen", "4.0.0"
 gem "sass", "3.7.4"
 gem "jekyll-sass-converter", "1.5.2"
