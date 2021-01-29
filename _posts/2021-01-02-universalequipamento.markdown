@@ -5,6 +5,7 @@ date:   2021-01-02 07:58:00
 categories: [pt, projects]
 image:
   background: witewall_3.png
+  feature: headers/universalequipamento.jpg
 tags: [estrutura, html5, email, css3, jquery, projects]
 comments: true
 share: true

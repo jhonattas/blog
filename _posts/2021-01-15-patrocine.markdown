@@ -5,11 +5,20 @@ date:   2020-02-15 08:40:00
 categories: [pt, projects]
 image:
   background: ps_neural.png
-  feature: patrocine.jpg
-tags: [estrutura, html5, email, css3, jquery]
+  feature: headers/patrocine.jpg
+tags: [estrutura, html5, email, css3, jquery, projects]
 comments: true
 share: true
 ---
+<figure>
+	<a href="{{ site.url }}//images/patrocine.jpg">
+		<img src="{{ site.url }}/images/patrocine.jpg" alt="">
+	</a>
+	<figcaption>
+		site em funcionamento
+	</figcaption>
+</figure>
+<hr/>
 <h1>Tecnologias</h1>
 * EC2 / AWS - VPS Linux Ubuntu
 * S3 / AWS

@@ -5,6 +5,7 @@ date:   2015-12-03 07:21:00
 categories: [pt, projects]
 image:
   background: witewall_3.png
+  feature: headers/whatsapptricks.png
 tags: [android, whatsapp, admob, projects]
 comments: true
 share: true
