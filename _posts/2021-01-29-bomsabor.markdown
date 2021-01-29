@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "Pizzaria Mineira"
+title:  "Bom Sabor"
 date:   2021-01-29 08:48:51
 categories: [pt, projects]
 image:
@@ -12,12 +12,12 @@ share: true
 * Desenvolvimento de landing page
 
 <figure>
-	<a href="{{ site.url }}/images/posts/1611920958500_pizzariamineira.png">
-		<img src="{{ site.url }}/images/posts/1611920958500_pizzariamineira.png" alt="">
+	<a href="{{ site.url }}/images/posts/bomsabor.png">
+		<img src="{{ site.url }}/images/posts/bomsabor.png" alt="">
 	</a>
 	<figcaption>
 		desenvolvimento de site landing page <br/>
-		pode ser visto em: <a href="https://demo.soucriador.com/pizzariamineira">https://demo.soucriador.com/pizzariamineira</a>
+		pode ser visto em: <a href="https://demo.soucriador.com/bomsabor">https://demo.soucriador.com/bomsabor</a>
 	</figcaption>
 </figure>
 
