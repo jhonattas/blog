@@ -12,30 +12,13 @@ share: true
 Enquanto ainda trabalhava na FLYWORLD, um dos projetos que fiz desenvolvimento foi o site do meu chefe na epoca e dono da rede de franquias <a href="https://www.instagram.com/pauloatencia/" target="_new">Paulo Atência</a>.
 
 <figure>
-	<a href="{{ site.url }}/images/posts/pauloatencia.png">
-		<img src="{{ site.url }}/images/posts/pauloatencia.png" alt="">
-	</a>
-	<figcaption>
-		versão atualizada do layout
-	</figcaption>
+	<a href="{{ site.url }}/images/posts/pauloatencia.png"><img src="{{ site.url }}/images/posts/pauloatencia.png" alt=""></a>
+	<a href="{{ site.url }}/images/posts/paulo01.png"><img src="{{ site.url }}/images/posts/paulo01.png" alt=""></a>
+	<a href="{{ site.url }}/images/posts/paulo02.png"><img src="{{ site.url }}/images/posts/paulo02.png" alt=""></a>
+	<a href="{{ site.url }}/images/posts/paulo03.png"><img src="{{ site.url }}/images/posts/paulo03.png" alt=""></a>
+	<figcaption>Alguns prints.</figcaption>
 </figure>
 
 <br/>
-
-<figure>
-	<a href="{{ site.url }}/images/posts/paulo01.png">
-		<img src="{{ site.url }}/images/posts/paulo01.png" alt="">
-	</a>
-</figure>
-
-<figure>
-	<a href="{{ site.url }}/images/posts/paulo02.png">
-		<img src="{{ site.url }}/images/posts/paulo02.png" alt="">
-	</a>
-</figure>
-
-<figure>
-	<a href="{{ site.url }}/images/posts/paulo03.png">
-		<img src="{{ site.url }}/images/posts/paulo03.png" alt="">
-	</a>
-</figure>
+Pode ser vista em funcionamento aqui: <a href="https://demo.soucriador.com/pauloatencia/" target="_new">https://demo.soucriador.com/pauloatencia</a>
+<br/>
