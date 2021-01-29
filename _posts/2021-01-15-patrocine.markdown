@@ -6,7 +6,7 @@ categories: [pt, projects]
 image:
   background: ps_neural.png
   feature: headers/patrocine.jpg
-tags: [estrutura, html5, email, css3, jquery, projects]
+tags: [estrutura, projects]
 comments: true
 share: true
 ---

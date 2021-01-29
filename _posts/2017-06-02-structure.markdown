@@ -5,7 +5,7 @@ date:   2017-06-02 08:15:03
 categories: [pt, diary]
 image:
   feature: abstract-1.jpg
-tags: [estrutura, news, diary]
+tags: [diario]
 comments: true
 share: true
 ---

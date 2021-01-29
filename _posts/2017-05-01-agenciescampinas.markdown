@@ -5,7 +5,7 @@ date:   2017-05-01 08:01:15
 categories: [pt, projects]
 image:
   background: witewall_3.png
-tags: [android, whatsapp, retrofit, json, projects]
+tags: [android, projects, estrutura]
 comments: true
 share: true
 ---

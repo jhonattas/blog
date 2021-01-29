@@ -5,7 +5,7 @@ date:   2021-01-13 09:36:00
 categories: [pt, diary]
 image:
   background: witewall_3.png
-tags: [reflexao, vida, trabalho, news]
+tags: [reflexao, vida, trabalho]
 comments: true
 share: true
 ---

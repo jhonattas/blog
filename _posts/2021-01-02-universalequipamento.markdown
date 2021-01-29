@@ -6,7 +6,7 @@ categories: [pt, projects]
 image:
   background: witewall_3.png
   feature: headers/universalequipamento.jpg
-tags: [estrutura, html5, email, css3, jquery, projects]
+tags: [estrutura, projects]
 comments: true
 share: true
 ---
