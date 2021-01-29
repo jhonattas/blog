@@ -10,4 +10,19 @@ tags: [work, projects, html5, css3]
 comments: true
 share: true
 ---
-Desenvolvimento de website
+* Desenvolvimento de website
+* Identidade Visual
+* Instagram
+* Facebook Page
+* Google My Business
+
+
+<figure>
+	<a href="{{ site.url }}/images/posts/ch7engenharia.png">
+		<img src="{{ site.url }}/images/posts/ch7engenharia.png" alt="">
+	</a>
+	<figcaption>
+		desenvolvimento de site landing page <br/>
+		pode ser visto em: <a href="https://ch7engenharia.com.br" target="_new">https://ch7engenharia.com.br</a>
+	</figcaption>
+</figure>
