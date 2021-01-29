@@ -22,8 +22,8 @@ Ter liberdade para curvar o conhecimento que absorvo, e conseguir aplicar isso d
 <br/>
 <br/>
 <figure>
-	<a href="https://blog.jhonattas.com/images/posts/00d62331876087.5664fdc6ecd9b.png">
-		<img src="https://blog.jhonattas.com/images/posts/00d62331876087.5664fdc6ecd9b.png" alt="">
+	<a href="{{ site.url }}/images/posts/00d62331876087.5664fdc6ecd9b.png">
+		<img src="{{ site.url }}/images/posts/00d62331876087.5664fdc6ecd9b.png" alt="">
 	</a>
 	<figcaption>
 		<b>Site</b>: <a href="http://saveway.com.br/" target="_new">www.saveway.com.br</a></figcaption>

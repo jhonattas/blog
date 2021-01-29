@@ -12,18 +12,18 @@ share: true
 Refinamento de logo, e vetorização da ideia.
 <br/>
 <br>
-<a href="https://blog.jhonattas.com/images/posts/d7a1b824390821.56333652315b4.jpg" target="_new">
-	<img src="https://blog.jhonattas.com/images/posts/d7a1b824390821.56333652315b4.jpg">
+<a href="{{ site.url }}/images/posts/d7a1b824390821.56333652315b4.jpg" target="_new">
+	<img src="{{ site.url }}/images/posts/d7a1b824390821.56333652315b4.jpg">
 </a>
 
 <br/>
 <br>
-<a href="https://blog.jhonattas.com/images/posts/52cff324390821.563336522de21.png" target="_new">
-	<img src="https://blog.jhonattas.com/images/posts/52cff324390821.563336522de21.png">
+<a href="{{ site.url }}/images/posts/52cff324390821.563336522de21.png" target="_new">
+	<img src="{{ site.url }}/images/posts/52cff324390821.563336522de21.png">
 </a>
 
 <br/>
 <br>
-<a href="https://blog.jhonattas.com/images/posts/b0825f24390821.563336522881b.jpg" target="_new">
-	<img src="https://blog.jhonattas.com/images/posts/b0825f24390821.563336522881b.jpg">
+<a href="{{ site.url }}/images/posts/b0825f24390821.563336522881b.jpg" target="_new">
+	<img src="{{ site.url }}/images/posts/b0825f24390821.563336522881b.jpg">
 </a>

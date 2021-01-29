@@ -10,7 +10,7 @@ comments: true
 share: true
 ---
 <center>
-    <img src="https://blog.jhonattas.com/images/posts/74e15e32069227.566de3c572b7c.png">
+    <img src="{{ site.url }}/images/posts/74e15e32069227.566de3c572b7c.png">
 </center>
 
 Whatsapp tricks (ou para os intímos, dicas para whatsapp)...
@@ -24,7 +24,7 @@ Disponível inicialmente em português e espanhol, o app consiste em um conjunto
 Notando este comportamento a segunda coisa que eu fiz foi atualizar o app e inserir anúncios!!!
 
 <center>
-    <img src="https://blog.jhonattas.com/images/posts/captura_de_tela_2015-12-03_02.23.53.png">
+    <img src="{{ site.url }}/images/posts/captura_de_tela_2015-12-03_02.23.53.png">
 </center>
 
 
@@ -32,7 +32,7 @@ Acima é possível verificar o rendimento deste app ao longo deste período (no 
 
 
 <center>
-    <img src="https://blog.jhonattas.com/images/posts/captura_de_tela_2015-12-03_02.30.16.png">
+    <img src="{{ site.url }}/images/posts/captura_de_tela_2015-12-03_02.30.16.png">
 </center>
 
 

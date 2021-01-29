@@ -12,14 +12,14 @@ share: true
 Desenvolvimento de website dinâmico para franqueados.
 <br/>
 <br>
-<a href="https://blog.jhonattas.com/images/posts/ebdc0a22751699.56317ca52b47c.jpg" target="_new">
-	<img src="https://blog.jhonattas.com/images/posts/ebdc0a22751699.56317ca52b47c.jpg">
+<a href="{{ site.url }}/images/posts/ebdc0a22751699.56317ca52b47c.jpg" target="_new">
+	<img src="{{ site.url }}/images/posts/ebdc0a22751699.56317ca52b47c.jpg">
 </a>
 
 <br/>
 <br>
-<a href="https://blog.jhonattas.com/images/posts/e5137122751699.56317cddefc22.png" target="_new">
-	<img src="https://blog.jhonattas.com/images/posts/e5137122751699.56317cddefc22.png">
+<a href="{{ site.url }}/images/posts/e5137122751699.56317cddefc22.png" target="_new">
+	<img src="{{ site.url }}/posts/e5137122751699.56317cddefc22.png">
 </a>
 
 <br/>

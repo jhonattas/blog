@@ -12,6 +12,6 @@ share: true
 Desenvolvimento de header.
 <br/>
 <br>
-<a href="https://blog.jhonattas.com/images/posts/2828b130889425.5637e88c1b9ce.png" target="_new">
-	<img src="https://blog.jhonattas.com/images/posts/2828b130889425.5637e88c1b9ce.png">
+<a href="{{ site.url }}/images/posts/2828b130889425.5637e88c1b9ce.png" target="_new">
+	<img src="{{ site.url }}/images/posts/2828b130889425.5637e88c1b9ce.png">
 </a>
