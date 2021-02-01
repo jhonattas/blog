@@ -6,7 +6,7 @@ categories: [pt, projects]
 image:
   background: witewall_3.png
   feature: headers/whatsapptricks.png
-tags: [android, projects, estrutura]
+tags: [projects, estrutura]
 comments: true
 share: true
 ---

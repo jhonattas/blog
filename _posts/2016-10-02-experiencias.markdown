@@ -5,7 +5,7 @@ date:   2016-10-02 12:09:15
 categories: [pt, diary]
 image:
   feature: abstract-1.jpg
-tags: [reflexao, vida, trabalho, desenvolvimento software]
+tags: [reflexao, vida, trabalho]
 comments: true
 share: true
 ---
