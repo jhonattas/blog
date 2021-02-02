@@ -9,4 +9,4 @@ tags: [reflexao, vida, trabalho, diario]
 comments: true
 share: true
 ---
-E janeiro se foi..
+E não é que alguns loops ainda me perseguem??
