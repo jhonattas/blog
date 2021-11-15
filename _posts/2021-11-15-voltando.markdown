@@ -9,7 +9,8 @@ tags: [projects]
 comments: true
 share: true
 ---
-* Desenvolvimento de landing page
+* Realinhamento de presença digital
+
 
 <figure>
 	<a href="{{ site.url }}/images/posts/1611922053497_valepay.png">
