@@ -10,6 +10,13 @@ comments: true
 share: true
 ---
 * Desenvolvimento de landing page
+<br/>
+<br/>
+Criação e desenvolvimento da landing page para contato, informação e venda do Cartão Massacard.
+<br/>
+Foi realizada não apenas a parte da codificação e hospedagem, mas também todos os assets de imagem (estes por sua vez em parceria direta com o <b>Leandro Balardin</b>).
+<br/>
+<br/>
 
 <figure>
 	<a href="{{ site.url }}/images/posts/1611918277986-min_masscard.png">
